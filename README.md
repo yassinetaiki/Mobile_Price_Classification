@@ -16,5 +16,26 @@ analyse de fond(signification varibles  , relation variables/traget )
 
 analyse plus detailles(relation variables/variables, test d'hypothes)
 
-preprocessing(
+preprocessing:
+
+(standarisation,repatition de donnees , recuperation des donnees preparés)
+
+modele de base(LinearDiscriminante analysis)
+
+learning curve 
+
+classification:
+
+evaluation des differentes modeles (,LDA,KneighborsClassifier, SVC, DecisonTreeClassifier, RadomForestClassifier)
+
+learning curve et classification report 
+
+choix de meilleure modele(SVC)
+
+Optimisation de modele(GridSearchCV)
+
+
+
+
+
 
