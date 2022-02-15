@@ -1,6 +1,6 @@
 # Mobile_Price_Classification
 Context du projet : un investiseur a lancé sa propre entreprise de téléphonie mobile. Il veut livrer un combat acharné aux grandes entreprises comme Apple, Samsung, etc.
-Il ne sait pas estimer le prix des mobiles que son entreprise crée. Dans ce marché concurrentiel de la téléphonie mobile.
+Il ne sait pas estimer le prix des mobiles que son entreprise crée. 
 Pour résoudre ce problème, il collecte les données de vente des téléphones portables de diverses sociétés.
 il veut découvrir une relation entre les caractéristiques d'un téléphone mobile (par exemple : - RAM, mémoire interne, etc.) et son prix de vente.
 Dans ce problème, le but n'est pas de prédire le prix réel mais une fourchette de prix indiquant à quel point le prix est élevé(faible,moyen ,elevé,trés elevé)
